@@ -1,0 +1,6 @@
+{
+  "name": "Splat Stack: Class of '99",
+  "description": "A highly optimized, native-feeling mobile physical merge puzzle game styled in post-grunge, lowbrow early-90s cartoon realism with dynamic jiggle physics, high-juice micro-interactions, and 3D perspective depth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
